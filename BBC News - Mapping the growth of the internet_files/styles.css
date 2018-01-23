@@ -1,0 +1,1203 @@
+html {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+body {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+div {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+span {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+object {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+iframe {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h1 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h2 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h3 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h4 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h5 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+h6 {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+p {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+blockquote {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+pre {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+a {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+abbr {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+acronym {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+address {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+cite {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+code {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+del {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+dfn {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+em {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+img {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+ins {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+kbd {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+q {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+samp {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+strong {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+sub {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+sup {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+tt {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+var {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+dl {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+dt {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+dd {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+ol {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+ul {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+li {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+fieldset {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+form {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+label {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+legend {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+table {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+caption {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+tbody {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+tfoot {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+thead {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+tr {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+th {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+td {
+	margin: 0px; padding: 0px; outline: 0px; font-size: 100%;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+abbr {
+	border: 0px currentColor; border-image: none;
+}
+acronym {
+	border: 0px currentColor; border-image: none;
+}
+fieldset {
+	border: 0px currentColor; border-image: none;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+body {
+	background: rgb(238, 238, 238); margin: 0px; border: 0px currentColor; border-image: none; color: rgb(70, 70, 70); font-family: Verdana, Arial, sans-serif; font-size: 62.5%; min-width: 974px;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+div {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+hr {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+.clear {
+	height: 0px; clear: both;
+}
+.wgreylinebottom .clear {
+	height: 0px; line-height: 0; clear: both;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+ul {
+	list-style-type: none;
+}
+.offscreen {
+	left: -500000px; top: -500000px; position: absolute;
+}
+.centerbody {
+	background: rgb(255, 255, 255); width: 974px; margin-right: auto; margin-left: auto; border-right-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-right-width: 10px; border-left-width: 10px; border-right-style: solid; border-left-style: solid; position: relative;
+}
+.centerbodywide {
+	background: rgb(255, 255, 255); width: 974px; margin-right: auto; margin-left: auto; border-right-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-right-width: 10px; border-left-width: 10px; border-right-style: solid; border-left-style: solid; position: relative;
+}
+.ds {
+	margin: 0px 0px 3px; padding: 0px 0px 2px; font-size: 1.1em; -webkit-text-size-adjust: none;
+}
+.ds .lu {
+	margin: 0px; color: rgb(102, 102, 102);
+}
+.published {
+	border: currentColor; border-image: none;
+}
+.contentwrapper .ds {
+	margin: 0px 0px 8px; padding: 0px 0px 8px; border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.fpfeed {
+	float: right;
+}
+.feeds {
+	margin: 3px 0px 0px; padding: 2px 0px 0px 5px; width: 100px; height: 18px; font-size: 1.1em;
+}
+.fpfeed .feeds {
+	margin: 0px;
+}
+.feeds ul {
+	margin: 0px; padding: 0px; float: left; display: block;
+}
+.feeds ul li {
+	margin: 0px; padding: 0px; float: left; display: block;
+}
+.feeds ul {
+	margin: 0px 0px 5px;
+}
+.feeds ul li {
+	padding: 0px 5px 0px 0px; border-right-color: rgb(102, 102, 102); border-right-width: 1px; border-right-style: solid;
+}
+.feeds ul li a {
+	padding: 0px; display: block;
+}
+.feeds ul li.rssFeed {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/icons/feed.gif") no-repeat 0px 0px; margin: -1px 0px 0px 5px; padding: 0px 3px 0px 0px; border: 0px currentColor; border-image: none; width: 16px; height: 16px;
+}
+.feeds ul li.rssFeed a {
+	padding: 0px; border: currentColor; border-image: none; width: 16px; height: 16px; display: block;
+}
+.relatedbbcsites h3 {
+	font-size: 1.1em;
+}
+.siteVersion div {
+	font-size: 1.1em;
+}
+.relatedbbcsites {
+	margin: 10px 0px 0px 10px; font-size: 1.1em;
+}
+.siteVersion {
+	margin: 10px 0px 0px 10px; font-size: 1.1em;
+}
+.relatedbbcsites h3 {
+	margin: 0px 0px 3px; color: rgb(51, 51, 51); font-weight: normal;
+}
+.siteVersion div {
+	margin: 0px 0px 3px; color: rgb(51, 51, 51); font-weight: normal;
+}
+.relatedbbcsites ul {
+	padding: 0px 0px 0px 7px;
+}
+.siteVersion ul {
+	padding: 0px 0px 0px 7px;
+}
+.relatedbbcsites ul li {
+	border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255) currentColor; border-image: none; line-height: 1.2em;
+}
+.siteVersion ul li {
+	border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255) currentColor; border-image: none; line-height: 1.2em;
+}
+.relatedbbcsites ul li a {
+	border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255) currentColor; border-image: none; display: block;
+}
+.siteVersion ul li a {
+	border-width: 1px 1px 1px 0px; border-style: solid solid solid none; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255) currentColor; border-image: none; display: block;
+}
+.siteVersion ul li.unselected {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -1px; padding: 1px 0px;
+}
+.siteVersion ul li.unselected {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -1px; padding: 1px 0px;
+}
+.siteVersion ul li a {
+	padding: 1px 0px 1px 16px;
+}
+.siteVersion ul li.unselected a:hover {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -36px; color: rgb(0, 0, 0); text-decoration: none;
+}
+.siteVersion ul li.uk {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -36px; color: rgb(0, 0, 0); text-decoration: none;
+}
+.siteVersion ul li.ifs {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -36px; color: rgb(0, 0, 0); text-decoration: none;
+}
+.siteVersion ul li.ifs a:hover {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -36px;
+}
+.siteVersion ul li.uk a:hover {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/bg_version.gif") no-repeat 0px -37px;
+}
+.siteVersion ul li.uk a {
+	color: rgb(0, 0, 0);
+}
+.siteVersion ul li.ifs a {
+	color: rgb(0, 0, 0);
+}
+.siteVersion ul li.unselected a {
+	color: rgb(0, 0, 0);
+}
+.mvb {
+	margin: 0px 0px 5px;
+}
+.mva {
+	margin: 5px;
+}
+.mvtb {
+	margin: 5px 0px;
+}
+.bys {
+	color: rgb(0, 0, 0); font-size: 1.1em; font-weight: bold;
+}
+.byl {
+	color: rgb(102, 102, 102); line-height: 1.4em; font-size: 1em; font-weight: normal;
+}
+.byd {
+	color: rgb(0, 0, 0); line-height: 1.4em; font-size: 1em;
+}
+.sharesb {
+	margin: 15px 0px 10px; padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; clear: both; font-size: 12px; position: relative; -webkit-text-size-adjust: none;
+}
+.sharesb p {
+	margin: 0px; padding: 0px;
+}
+.sharesb p a {
+	padding: 10px; top: 0px; right: 0px; font-size: 12px; position: absolute;
+}
+.sharesb h3 {
+	margin: 0px 5px 0px 3px; padding: 0px 3px 0px 0px; font-weight: normal;
+}
+.sharesb ul {
+	list-style: none; margin: 15px 0px 0px 15px; padding: 0px; text-align: left;
+}
+.sharesb ul li {
+	padding: 0px 4px 6px 0px; text-align: center; display: inline;
+}
+.sharesb ul li.delicious {
+	background: url("http://newsimg.bbc.co.uk/shared/img/icons/bookmarks/delicious.gif") no-repeat 0px 0px;
+}
+.sharesb ul li.digg {
+	background: url("http://newsimg.bbc.co.uk/shared/img/icons/bookmarks/digg.gif") no-repeat 0px 0px;
+}
+.sharesb ul li.reddit {
+	background: url("http://newsimg.bbc.co.uk/shared/img/icons/bookmarks/reddit.gif") no-repeat 0px 0px; padding: 0px 0px 0px 2px;
+}
+.sharesb ul li.facebook {
+	background: url("http://newsimg.bbc.co.uk/shared/img/icons/bookmarks/facebook.gif") no-repeat 0px 0px;
+}
+.sharesb ul li.stumbleupon {
+	background: url("http://newsimg.bbc.co.uk/shared/img/icons/bookmarks/stumbleupon.gif") no-repeat 0px 0px;
+}
+.sharesb ul li a {
+	margin: 0px 3px 0px 0px; padding: 0px 0px 0px 18px;
+}
+.sabull {
+	background-position: 6px 4px; background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/seealso_bullet.gif");
+}
+.promotopbg .nlp {
+	background: rgb(239, 239, 239); margin: 0px; padding: 10px 0px 10px 10px; color: rgb(51, 51, 51); font-size: 1.3em; font-weight: normal;
+}
+.promotopbg {
+	background: rgb(239, 239, 239);
+}
+.promobottombg {
+	background: rgb(239, 239, 239); line-height: 1.3em; font-size: 1.2em;
+}
+.promobottombg .mvb {
+	margin: 0px 0px 2px;
+}
+.promobottombg a img {
+	margin: 0px 0px 5px; display: block;
+}
+.promobottombg .mvb .nlp {
+	font-size: 0.8em;
+}
+.promobottombg .mvb .lp {
+	font-size: 0.8em;
+}
+.promobottombg img {
+	display: none;
+}
+.promobottombg .nlp {
+	color: rgb(102, 102, 102); font-size: 0.9em; display: inline;
+}
+.promobottombg .lp {
+	font-size: 0.9em;
+}
+.gpromo {
+	background: rgb(239, 239, 239);
+}
+.promomiddlebg {
+	background: rgb(239, 239, 239);
+}
+.gdedfdb {
+	background: rgb(239, 239, 239);
+}
+.promomiddlebg {
+	padding: 0px 0px 10px;
+}
+.promobottombg {
+	background: rgb(239, 239, 239); height: 13em; color: rgb(51, 51, 51);
+}
+.bgPromotionBottom {
+	background: rgb(239, 239, 239); height: 13em; color: rgb(51, 51, 51);
+}
+.promobottombg .mvb {
+	margin: 0px 0px 2px;
+}
+.promobottombg .nlp {
+	padding: 0px 0px 10px; color: rgb(51, 51, 51); font-weight: normal;
+}
+.bgPromotionBottom .nlp {
+	padding: 0px 0px 10px; color: rgb(51, 51, 51); font-weight: normal;
+}
+.Gutter_Promo {
+	background: rgb(239, 239, 239);
+}
+.bgPromotionBottom img {
+	padding: 0px 0px 3px;
+}
+.bgPromotionBottom .shl {
+	clear: both; font-size: 1.3em; font-weight: bold;
+}
+.bgPromotionBottom .o {
+	padding: 0px; font-size: 1em;
+}
+.bgPromotionBottom .pb {
+	width: 126px;
+}
+.bgPromotionBottom .pb .o {
+	padding: 0px;
+}
+.promobottombg .promobg .pb a.pbl img {
+	margin: 5px 0px 0px;
+}
+.promobottombg .promobg .pb a.pbl img.imvr {
+	margin: 0px 0px 5px;
+}
+.widesectionheadline {
+	margin: 3px 0px; line-height: 1.4em; clear: both; font-size: 1.2em;
+}
+.widesectionheadline .miitb {
+	margin: 0px;
+}
+.widesectionheadline .wideav {
+	margin: 0px;
+}
+.widesectionheadline .wideav a img {
+	margin: 0px;
+}
+.widesectionheadline div {
+	display: inline;
+}
+.widesection {
+	margin: 0px 5px 0px 0px;
+}
+.widesection .nlp {
+	font-size: 1em;
+}
+.widesection a.lp {
+	color: rgb(144, 26, 31);
+}
+.widesection {
+	display: inline;
+}
+.wideheadline {
+	display: inline;
+}
+.widesection {
+	padding: 2px 0px;
+}
+.wideheadline {
+	padding: 2px 0px;
+}
+.wideav {
+	padding: 2px 0px;
+}
+.wideav img {
+	margin: 2px 0px 0px;
+}
+.wideav {
+	font-size: 1.2em;
+}
+.wideav a {
+	margin: 0px 0px 2px; line-height: 1.3em;
+}
+.widesectionheadline .wideav {
+	line-height: 1.1em; font-size: 1.1em;
+}
+.widesectionheadline .wideav a {
+	margin: 0px;
+}
+.widesectionheadline .wideav a img {
+	margin: 3px 0px 0px;
+}
+.picheadline {
+	padding: 3px 0px 0px; font-size: 1.3em;
+}
+.picheadline a img {
+	margin: 2px 5px 5px 0px;
+}
+.picheadsub {
+	font-size: 1.3em;
+}
+.picheadline2 {
+	padding: 3px 0px 0px;
+}
+.picheadline2 .lp {
+	line-height: 1.3em; font-size: 1.3em;
+}
+.picheadline2 .tshsplash {
+	line-height: 1.3em; font-size: 1.3em;
+}
+.picheadline2 .tshsplash {
+	line-height: 1.3em; font-size: 1.3em;
+}
+.picheadline2 .tsl {
+	font-size: 1.1em;
+}
+.picheadline2 img {
+	padding: 0px 0px 4px;
+}
+.picheadline2 .nlp {
+	font-size: 1.1em;
+}
+.picheadline2 .arr {
+	background-position: 5px 2px; margin: 5px 0px; padding: 0px 0px 0px 20px;
+}
+.picheadlinesummary {
+	padding: 3px 0px 0px; line-height: 1.2em; font-size: 1.3em;
+}
+.picheadlinesummary a {
+	line-height: 1.4em;
+}
+.picheadlinesummary a img {
+	margin: 2px 5px 0px 0px;
+}
+.picheadlinesummary img {
+	padding: 0px 0px 5px;
+}
+.picheadline3 a.pbl {
+	font-size: 1.3em;
+}
+.picheadline3 img.imvr {
+	padding: 0px 5px 0px 0px;
+}
+.acrol {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/pdf.gif") no-repeat; margin: 1px 0px 0px; padding: 0px 0px 7px 20px; color: rgb(0, 0, 0); font-size: 11px;
+}
+h2.data416 {
+	background: rgb(93, 138, 166); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+h2.data203 {
+	background: rgb(93, 138, 166); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+h2.data629 {
+	background: rgb(93, 138, 166); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+h2.data466 {
+	background: rgb(93, 138, 166); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+h2.data226 {
+	background: rgb(93, 138, 166); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+h3.data416 {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+h3.data203 {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+h3.data629 {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+h3.data466 {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+h3.data226 {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+h2.data416 {
+	width: 410px;
+}
+h3.data416 {
+	width: 410px;
+}
+h2.data203 {
+	width: 197px;
+}
+h3.data203 {
+	width: 197px;
+}
+h2.data629 {
+	width: 623px;
+}
+h3.data629 {
+	width: 623px;
+}
+.tdata1 td {
+	padding: 3px; font-size: 1em;
+}
+.tdata1 td.subhead {
+	background: rgb(221, 221, 204); text-align: left;
+}
+.tdata1 td.r1 {
+	background: rgb(237, 242, 246);
+}
+.tdata1 td.r2 {
+	background: rgb(214, 227, 226);
+}
+.tdata1 td.innerhead {
+	background: rgb(86, 136, 153); margin: 0px; padding: 4px 3px; text-align: left; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: normal;
+}
+.tdata1 td.bg3 {
+	background: rgb(221, 221, 221);
+}
+.tdata1 td.footer {
+	background: rgb(238, 238, 238);
+}
+.bodytable td .arrdo {
+	font-size: 11px;
+}
+.qboxa {
+	width: 203px;
+}
+.qboxb {
+	width: 226px;
+}
+.qboxc {
+	width: 306px;
+}
+.qboxd {
+	width: 466px;
+}
+.qbox416 {
+	width: 466px;
+}
+.qboxflr {
+	margin: 0px 0px 0px 10px; width: 226px; float: right;
+}
+.qboxflr a.lp {
+	font-size: 1.1em;
+}
+.qbox {
+	border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid;
+}
+.qbox blockquote {
+	margin: 18px 0px 0px; padding: 5px 5px 6px 10px; font-size: 1.3em; border-right-color: rgb(223, 223, 223); border-left-color: rgb(223, 223, 223); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.qboxd blockquote {
+	margin: 18px 0px 0px; padding: 5px 5px 6px 10px; font-size: 1.3em; border-right-color: rgb(223, 223, 223); border-left-color: rgb(223, 223, 223); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.qbox416 blockquote {
+	margin: 18px 0px 0px; padding: 5px 5px 6px 10px; font-size: 1.3em; border-right-color: rgb(223, 223, 223); border-left-color: rgb(223, 223, 223); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.qbox416 blockquote {
+	padding: 5px 15px 6px; font-size: 1.4em; font-style: italic;
+}
+.qbox416 {
+	border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid;
+}
+.qbox blockquote a {
+	text-align: left;
+}
+.qboxd blockquote a {
+	text-align: left;
+}
+.qbox416 blockquote a {
+	text-align: left;
+}
+.storybody .qbox {
+	width: 226px;
+}
+.storybody .qbox {
+	margin: 0px; font-size: 0.7em; float: right;
+}
+.storybody .qboxb {
+	margin: 0px; font-size: 0.7em; float: right;
+}
+.storybody .qboxc {
+	margin: 0px; font-size: 0.7em; float: right;
+}
+.storybody .qboxd {
+	margin: 0px; font-size: 0.7em; float: right;
+}
+.storybody .qbox .links {
+	padding: 0px 10px 0px 0px; text-align: right; font-size: 1.2em; display: block;
+}
+.storybody .qbox .info {
+	margin: 0px; padding: 38px 10px 0px; text-align: right; font-size: 1.2em;
+}
+.qbox .info {
+	margin: 0px; padding: 38px 10px 0px; text-align: right; font-size: 1.2em;
+}
+.qboxd .info {
+	margin: 0px; padding: 38px 10px 0px; text-align: right; font-size: 1.2em;
+}
+.qbox416 .info {
+	margin: 0px; padding: 38px 10px 0px; text-align: right; font-size: 1.2em;
+}
+.qboxd .info {
+	padding: 38px 10px 5px; font-weight: bold;
+}
+.qbox416 .info {
+	padding: 38px 10px 5px; font-weight: bold;
+}
+.qboxd .links {
+	padding: 0px 10px 0px 0px; text-align: right; font-size: 1.2em; display: block;
+}
+.qbox416 .links {
+	padding: 0px 10px 0px 0px; text-align: right; font-size: 1.2em; display: block;
+}
+.wgreylinebottom {
+	margin: 0px 0px 12px; padding: 0px 0px 5px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wgreylinebottom .picheadline2 .arr {
+	margin: 5px 0px 0px;
+}
+ul.rss {
+	list-style: none; margin: 0px; padding: 0px 0px 0px 4px;
+}
+ul.rss li {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v3/feed.gif") no-repeat 0px 1px; padding: 0px 0px 3px; height: 18px; font-weight: bold;
+}
+ul.rss li a {
+	padding: 0px 0px 0px 22px;
+}
+.blq-toplink {
+	padding: 0px 0px 10px; text-align: right; clear: both;
+}
+.blq-toplink a {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/skip_to_top_arrow.gif") no-repeat 1px 1px; padding: 0px 0px 0px 15px; text-transform: uppercase;
+}
+div.quest {
+	padding: 6px 0px;
+}
+div.quest ol {
+	list-style-type: decimal; list-style-position: inside;
+}
+div.quest ol li {
+	padding: 2px 0px;
+}
+.no_refresh {
+	padding: 9px 9px 8px; font-size: 11px; margin-top: -7px; background-color: rgb(229, 229, 229);
+}
+.no_refresh img {
+	margin-right: 7px; vertical-align: middle;
+}
+.storybody a.epl {
+	margin: 3px 0px 10px; display: block;
+}
+.wrapa {
+	margin: 0px;
+}
+.wrapa .arr {
+	width: 223px; float: left;
+}
+.wrapa .sabull {
+	width: 223px; float: left;
+}
+.wrapa .wideav {
+	width: 223px; float: left;
+}
+.wrapa .arr {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/arrow.gif") no-repeat 2px 1px;
+}
+.wgreylinebottom .wrapa .wideav {
+	width: 233px;
+}
+.wrapa .wideav {
+	width: 233px;
+}
+.wrapa .sabull {
+	padding: 2px 0px 2px 10px;
+}
+.wrapa .arr {
+	padding: 2px 0px 2px 10px;
+}
+.wrapa .sabull a {
+	line-height: 1.3em;
+}
+.wrapa .wideav a {
+	line-height: 1.3em;
+}
+.wrapa span.nlp {
+	border: 1px solid rgb(238, 238, 238); border-image: none; display: none;
+}
+.wrapa .sabull a {
+	font-size: 1.2em;
+}
+.wrapa .sabull {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/seealso_bullet.gif") no-repeat 0px 2px;
+}
+.ticker_container {
+	margin: 0px; padding: 0px; top: 0px; width: 100%; height: 100%; line-height: 30px; overflow: hidden; font-family: verdana,sans-serif; font-size: 12px; font-weight: bold; position: absolute; background-repeat: repeat-x;
+}
+.ticker_container .unravel_bar {
+	margin: 0px; padding: 0px; top: 0px; width: 100%; height: 100%; color: rgb(31, 82, 123); border-left-color: rgb(255, 255, 255); border-left-width: 1px; border-left-style: solid; float: left; position: absolute; z-index: 1; background-color: rgb(255, 255, 255);
+}
+.ticker_container .renderer_output {
+	margin: 0px; padding: 0px; width: 100%; height: 100%;
+}
+.ticker_container .ticker_content_anchor {
+	margin: 0px; padding: 0px;
+}
+.ticker_container .ticker_controls {
+	margin: 0px; padding: 7px 5px 0px 0px; top: 0px; height: 100%; right: 0px; float: right; position: absolute; z-index: 2;
+}
+.ticker_container .ticker_controls li {
+	margin: 0px 0px 0px 4px; float: left; cursor: pointer; background-image: url("http://newsimg.bbc.co.uk/shared/img/ticker/ticker_buttons.gif"); background-repeat: no-repeat;
+}
+.ticker_container .ticker_controls span {
+	display: none;
+}
+.ticker_container .prev {
+	background-position: -46px 1px; width: 17px; height: 17px; margin-top: 0px;
+}
+.ticker_container .next {
+	background-position: -66px 1px; width: 17px; height: 17px; margin-top: 0px;
+}
+.ticker_container .start_stop {
+	background-position: 0px 1px; width: 20px; height: 17px; margin-top: 0px; margin-right: 1px;
+}
+.ticker_container .start_stop.started:hover {
+	background-position: 0px -17px; margin-top: 0px;
+}
+.ticker_container .start_stop.stopped {
+	background-position: -23px 1px; margin-top: 0px;
+}
+.ticker_container .start_stop.stopped:hover {
+	background-position: -23px -17px; margin-top: 0px;
+}
+.ticker_container .prev:hover {
+	background-position: -46px -17px;
+}
+.ticker_container .next:hover {
+	background-position: -66px -17px;
+}
+.ticker_container .media_type {
+	margin: 9px 0px 0px; padding: 0px; left: 0px; float: left; position: relative; z-index: 3;
+}
+.ticker_container .media_type.ticker_audio {
+	width: 54px; height: 16px; margin-left: 4px; background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/audio_text.gif"); background-repeat: no-repeat;
+}
+.ticker_container .media_type.ticker_video {
+	width: 54px; height: 16px; margin-left: 4px; background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/video_text.gif"); background-repeat: no-repeat;
+}
+.ticker_container .prev_over {
+	background-position: -46px -17px;
+}
+.ticker_container .next_over {
+	background-position: -66px -17px;
+}
+.ticker_container .started_over {
+	background-position: 0px -17px; margin-top: 0px;
+}
+.ticker_container .stopped_over {
+	background-position: -23px -17px; margin-top: 0px;
+}
+.ticker_container .title_container {
+	margin: 0px; padding: 0px 5px; float: left; position: relative; z-index: 1;
+}
+.ticker_container .ticker_content {
+	margin: 0px; padding: 0px; color: rgb(69, 69, 69); float: left; position: relative; z-index: 1; max-width: 91%;
+}
+.ticker_container .ticker_title {
+	margin: 0px; padding: 0px; color: rgb(153, 0, 0); float: left; position: relative; z-index: 1;
+}
+.ticker_container .bg_bar {
+	left: 0px; width: 100%; position: absolute;
+}
+.tickerPrompt {
+	padding-right: 5px;
+}
+.ticker h2 {
+	padding: 4px 0px; font-size: 1.3em;
+}
+.ticker li {
+	padding: 4px 0px; border-top-color: rgb(230, 230, 230); border-top-width: 1px; border-top-style: solid;
+}
+.ticker {
+	margin: -40px 0px 10px; font-size: 1.1em; border-bottom-color: rgb(230, 230, 230); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+#tickerHolder {
+	height: 30px; margin-bottom: 10px; position: relative;
+}
+.statsStory {
+	width: 100%; float: left;
+}
+#popStory {
+	padding: 0px 0px 5px;
+}
+#popStory h4 {
+	margin: 0px 0px 5px; padding: 0px; color: rgb(51, 51, 51); font-size: 1.3em; font-weight: normal;
+}
+#tabpopStory {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/tab_nav_line.gif") repeat-x bottom; margin: 0px; padding: 0px 0px 0px 5px; height: 22px !important;
+}
+.tabpopStory {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/tab_nav_line.gif") repeat-x bottom; margin: 0px; padding: 0px 0px 0px 5px; height: 22px !important;
+}
+#tabpopStory li {
+	margin: 0px; padding: 0px; display: inline; list-style-type: none;
+}
+.tabpopStory li {
+	margin: 0px; padding: 0px; display: inline; list-style-type: none;
+}
+#tabpopStory li.tabpopHead {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+#tabpopStory a:link {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+#tabpopStory a:visited {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+#tabpopStory a.active:visited {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+#tabpopStory a:hover {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+.tabpopStory li.tabpopHead {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+.tabpopStory a:link {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+.tabpopStory a:visited {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+.tabpopStory a.active:visited {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+.tabpopStory a:hover {
+	margin: 0px 5px 0px 0px; padding: 2px 4px; border: 1px solid rgb(223, 223, 223); border-image: none; height: 16px !important; text-align: center; line-height: 16px; font-size: 1em; text-decoration: none; float: left;
+}
+#tabpopStory li.tabpopHead {
+	background: rgb(255, 255, 255); color: rgb(51, 51, 51); border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.tabpopStory li.tabpopHead {
+	background: rgb(255, 255, 255); color: rgb(51, 51, 51); border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#tabpopStory a:link {
+	background: rgb(221, 221, 221);
+}
+#tabpopStory a:visited {
+	background: rgb(221, 221, 221);
+}
+#tabpopStory a.active:visited {
+	background: rgb(221, 221, 221);
+}
+#tabpopStory a:hover {
+	background: rgb(221, 221, 221);
+}
+.tabpopStory a:link {
+	background: rgb(221, 221, 221);
+}
+.tabpopStory a:visited {
+	background: rgb(221, 221, 221);
+}
+.tabpopStory a.active:visited {
+	background: rgb(221, 221, 221);
+}
+.tabpopStory a:hover {
+	background: rgb(221, 221, 221);
+}
+#tabpopStory a:hover {
+	text-decoration: underline;
+}
+.tabpopStory a:hover {
+	text-decoration: underline;
+}
+.popstoryList .nlp {
+	margin: 3px 0px 0px;
+}
+ul.popstoryList {
+	list-style: none; margin: 0px 0px 10px; padding: 10px 0px 5px; clear: both; border-right-color: rgb(223, 223, 223); border-bottom-color: rgb(223, 223, 223); border-left-color: rgb(223, 223, 223); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+ul.popstoryList li.mostpop {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 0px 2px; padding: 0px 0px 2px 7px; line-height: 16px;
+}
+ul.popstoryList li.mp1 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/one.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp2 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/two.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp3 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/three.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp4 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/four.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp5 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/five.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp6 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/six.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp7 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/seven.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp8 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/eight.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp9 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/nine.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li.mp10 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/bsp/hi/live_stats/img/v4/ten.gif") no-repeat 5px 0px;
+}
+ul.popstoryList li {
+	padding: 0px 0px 7px 30px; line-height: 16px; font-size: 1.2em;
+}
+ul.popstoryList li a.av {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/video_single.gif") no-repeat 0px 0px; padding: 0px 0px 0px 20px;
+}
+.mostReadB {
+	margin: 0px 0px 5px; color: rgb(51, 51, 51); font-size: 11px;
+}
+.mpopdayh {
+	margin: 0px 0px 5px; color: rgb(153, 153, 153); text-transform: uppercase; font-size: 1.2em; font-weight: normal;
+}
+.mpopdaysh {
+	margin: 0px 0px 5px; color: rgb(153, 153, 153); text-transform: uppercase; font-size: 1.2em; font-weight: normal;
+}
+.mpopdaysh {
+	margin: 0px;
+}
+ul.popstorylistdays {
+	margin: 0px 0px 14px; padding: 10px 0px;
+}
+ul.popstorylistdays li {
+	padding: 0px 0px 10px; font-size: 1.2em;
+}
+ul.popstorylistdays li span {
+	color: rgb(88, 88, 88); font-size: 1em; font-weight: bold;
+}
+.storycontent .storybody p a {
+	border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.storycontent .storybody p a:hover {
+	text-decoration: none; border-bottom-color: rgb(31, 82, 123); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.storycontent .storybody #socialBookMarks a {
+	border: currentColor; border-image: none;
+}
+.storycontent .storybody p div a {
+	border: currentColor; border-image: none;
+}
+.storycontent .storybody #socialBookMarks a:hover {
+	text-decoration: underline; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.storycontent .storybody p div a:hover {
+	text-decoration: underline; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#galothercontent1 {
+	margin: 10px 0px 14px; clear: none; position: relative;
+}
+#galothercontent1 .seeAlsoContainer {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+#pictureGallery {
+	background: rgb(239, 239, 239); margin: 0px 0px 10px; padding: 0px 0px 10px 10px; width: 776px; border-top-color: rgb(239, 239, 239); border-top-width: 10px; border-top-style: solid;
+}
+.fgbi .picheadlinesummary {
+	margin: 0px 14px 10px 0px; width: 248px; height: 5.4em; overflow: hidden; float: left; display: block;
+}
+#galothercontentbox {
+	width: 786px;
+}
+#galothercontentbox .mpu_v4 {
+	margin: 0px 0px 10px; float: right; display: inline;
+}
+.fgbi .picheadlinesummary a {
+	font-weight: bold;
+}
+.o .fgbi {
+	margin: 0px 0px 10px; width: 100%; float: left; display: block;
+}
+#galothercontentbox .seeAlsoH {
+	background: none; font-size: 1em;
+}
+#galothercontentbox .arr {
+	width: 220px; float: left;
+}
+.contentwrapperwide {
+	vertical-align: top;
+}
+#galothercontentbox .mvtb table {
+	clear: both; display: none;
+}
+#galothercontent2 .di {
+	display: none;
+}
+#galothercontent2 .nlp {
+	margin: 10px 0px 3px; clear: left; font-size: 1em;
+}
+#galothercontent2 {
+	margin: 0px 0px 10px;
+}
+#galothercontent3 {
+	clear: left;
+}
+#galothercontent3 .o {
+	width: 154px; height: 66px; line-height: 1.3; padding-left: 76px; margin-bottom: 10px; float: left; position: relative;
+}
+html * #galothercontent3 .o {
+	height: auto; min-height: 66px;
+}
+#galothercontent3 .o a img {
+	left: 0px; top: 3px; position: absolute;
+}
+a.topstory2headline:link {
+	font-size: 1.6em; font-weight: bold;
+}
+a.topstory2headline:visited {
+	font-size: 1.6em; font-weight: bold;
+}
+a.topstory2headline:hover {
+	font-size: 1.6em; font-weight: bold;
+}
+a.topstory2headline:active {
+	font-size: 1.6em; font-weight: bold;
+}
+.topstory2summary {
+	margin: 0px 0px 10px; font-size: 1.3em;
+}
+.blq-js .opacity-none {
+	position: relative; opacity: 0; -moz-opacity: 0;
+}
+ol.clockwatch li {
+	margin-bottom: 1.4em;
+}
+.tbl466_width {
+	width: 466px;
+}
+.tbl466_width caption {
+	background: rgb(92, 134, 163); padding: 0px 0px 2px 3px; text-align: left; color: rgb(255, 255, 255);
+}
+.tbl466_width .odd_row {
+	background: rgb(236, 242, 246);
+}
+.tbl466_width .bold_cell {
+	font-weight: bold;
+}
+.tbl466_width .right_align {
+	text-align: right;
+}
+.tbl466_width .center_align {
+	text-align: center;
+}
+.tbl466_width td {
+	padding: 0px 2px;
+}
+.tbl466_footer {
+	background: rgb(121, 158, 178); width: 466px; color: rgb(255, 255, 255);
+}
+.tbl466_footer p {
+	margin: 0px; padding: 0px 0px 2px 3px;
+}

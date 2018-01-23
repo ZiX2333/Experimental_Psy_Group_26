@@ -1,0 +1,567 @@
+.lhs {
+	background: rgb(229, 229, 229); margin: 2px 0px 0px;
+}
+.lhs .o {
+	text-align: center;
+}
+.lhs {
+	width: 100%;
+}
+.lhsad {
+	width: 100%;
+}
+.lhs a {
+	color: rgb(31, 82, 123); font-size: 1.1em;
+}
+.lhs a:link {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhs a:visited {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhs a:active {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhs a:hover {
+	background: rgb(216, 216, 216); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhs .lhssqs a:link {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 4px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssqs a:visited {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 4px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssqs a:hover {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 4px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssqs a:active {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 4px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssq a:link {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssq a:visited {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssq a:hover {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhs .lhssq a:active {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsb {
+	font-weight: bold; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.lhssqs {
+	font-weight: bold; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.lhsnlp {
+	font-weight: bold; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.lhssqs a {
+	color: rgb(255, 255, 255); font-size: 1.1em;
+}
+.lhssq a {
+	color: rgb(255, 255, 255); font-size: 1.1em;
+}
+.lhsdl {
+	background: rgb(255, 255, 255); padding: 0px; color: rgb(255, 255, 255); font-size: 8px;
+}
+.lhsl {
+	border-bottom-color: rgb(255, 255, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.lhsNoBg {
+	background: rgb(229, 229, 229); margin: 2px 0px 0px;
+}
+.lhsNoBg .o {
+	text-align: center;
+}
+.lhsNoBg {
+	width: 100%;
+}
+.lhsad {
+	width: 100%;
+}
+.lhsNoBg a {
+	color: rgb(31, 82, 123); font-size: 1.1em;
+}
+.lhsNoBg a:link {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhsNoBg a:visited {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhsNoBg a:active {
+	padding: 2px 0px 2px 5px; color: rgb(31, 82, 123); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhsNoBg a:hover {
+	background: rgb(216, 216, 216); line-height: 15px; font-size: 1.1em; font-weight: bold; display: block;
+}
+.lhsNoBg .lhssqs a:link {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssqs a:visited {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssqs a:hover {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssqs a:active {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssq a:link {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssq a:visited {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssq a:hover {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+.lhsNoBg .lhssq a:active {
+	background: rgb(102, 95, 110); padding: 2px 0px 2px 8px; color: rgb(255, 255, 255);
+}
+div.lhsnlp {
+	margin: 8px 0px 0px; padding: 0px 6px 3px 0px; color: rgb(102, 102, 102); font-size: 12px; font-weight: normal;
+}
+ul#lhsOtherSites {
+	list-style: none; margin: 0px 0px 6px; padding: 0px; text-align: left;
+}
+ul#lhsOtherSites li {
+	padding: 1px 5px;
+}
+.lang {
+	margin: 8px 0px 0px; padding: 0px 6px 3px 10px; color: rgb(51, 51, 51); font-size: 12px; font-weight: normal;
+}
+ul#languages {
+	list-style: none; margin: 0px 0px 10px; padding: 0px;
+}
+ul#languages li {
+	padding: 1px 5px 1px 0px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+ul#languages li a {
+	color: rgb(31, 82, 123); text-transform: uppercase; font-size: 1.2em;
+}
+ul#lhsOtherSites li a {
+	color: rgb(31, 82, 123); text-transform: uppercase; font-size: 1.2em;
+}
+.lhsmi {
+	background: rgb(211, 211, 211);
+}
+.lhslt {
+	background: rgb(211, 211, 211);
+}
+.lhsmi {
+	padding: 2px 0px 0px 8px;
+}
+.lhslt a:link {
+	background: rgb(211, 211, 211); padding: 2px 0px 2px 10px; font-weight: normal;
+}
+.lhslt a:visited {
+	background: rgb(211, 211, 211); padding: 2px 0px 2px 10px; font-weight: normal;
+}
+.lhslt a:active {
+	background: rgb(211, 211, 211); padding: 2px 0px 2px 10px; font-weight: normal;
+}
+.lhsl a:link {
+	font-weight: normal;
+}
+.lhsl a:visited {
+	font-weight: normal;
+}
+.lhsl a:active {
+	font-weight: normal;
+}
+.lhsl a:hover {
+	font-weight: normal;
+}
+.lhslt a:hover {
+	background: rgb(192, 191, 191); padding: 2px 0px 2px 10px;
+}
+.lhsbsn {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(192, 191, 191); border: 0px currentColor; border-image: none;
+}
+.lhsbsn a:link {
+	padding: 2px 0px 2px 10px;
+}
+.lhsbsn a:visited {
+	padding: 2px 0px 2px 10px;
+}
+.lhsbsn a:hover {
+	padding: 2px 0px 2px 10px;
+}
+.lhsbsn a:active {
+	padding: 2px 0px 2px 10px;
+}
+.lhsbsn a:hover {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif") repeat-y right top rgb(192, 191, 191); padding: 2px 0px 2px 10px;
+}
+ul#languages li {
+	text-indent: -5000px;
+}
+li#newyddionLoz a {
+	height: 17px; display: block;
+}
+li#arabicLoz a {
+	height: 17px; display: block;
+}
+li#spanishLoz a {
+	height: 17px; display: block;
+}
+li#russianLoz a {
+	height: 17px; display: block;
+}
+li#chineseLoz a {
+	height: 17px; display: block;
+}
+li#somaliLoz a {
+	height: 17px; display: block;
+}
+li#frenchLoz a {
+	height: 17px; display: block;
+}
+li#swahiliLoz a {
+	height: 17px; display: block;
+}
+li#greatlakesLoz a {
+	height: 17px; display: block;
+}
+li#hausaLoz a {
+	height: 17px; display: block;
+}
+li#portugueseafricaLoz a {
+	height: 17px; display: block;
+}
+li#brazilLoz a {
+	height: 17px; display: block;
+}
+li#caribbeanLoz a {
+	height: 17px; display: block;
+}
+li#vietnameseLoz a {
+	height: 17px; display: block;
+}
+li#indonesianLoz a {
+	height: 17px; display: block;
+}
+li#burmeseLoz a {
+	height: 17px; display: block;
+}
+li#thaiLoz a {
+	height: 17px; display: block;
+}
+li#polishLoz a {
+	height: 17px; display: block;
+}
+li#albanianLoz a {
+	height: 17px; display: block;
+}
+li#greekLoz a {
+	height: 17px; display: block;
+}
+li#ukrainianLoz a {
+	height: 17px; display: block;
+}
+li#serbianLoz a {
+	height: 17px; display: block;
+}
+li#turkishLoz a {
+	height: 17px; display: block;
+}
+li#persianLoz a {
+	height: 17px; display: block;
+}
+li#pashtoLoz a {
+	height: 17px; display: block;
+}
+li#urduLoz a {
+	height: 17px; display: block;
+}
+li#hindiLoz a {
+	height: 17px; display: block;
+}
+li#bengaliLoz a {
+	height: 17px; display: block;
+}
+li#nepaliLoz a {
+	height: 17px; display: block;
+}
+li#tamilLoz a {
+	height: 17px; display: block;
+}
+li#sinhalaLoz a {
+	height: 17px; display: block;
+}
+li#czechLoz a {
+	height: 17px; display: block;
+}
+li#moreLoz a {
+	height: 17px; display: block;
+}
+li#newyddionLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/nw.gif") no-repeat 15px 0px;
+}
+li#arabicLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ar.gif") no-repeat 15px 0px;
+}
+li#spanishLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/mun.gif") no-repeat 15px 0px;
+}
+li#russianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ru.gif") no-repeat 15px 0px;
+}
+li#chineseLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ch.gif") no-repeat 15px 0px;
+}
+li#somaliLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/so.gif") no-repeat 15px 0px;
+}
+li#frenchLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/fr.gif") no-repeat 15px 0px;
+}
+li#swahiliLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/sw.gif") no-repeat 15px 0px;
+}
+li#greatlakesLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/gl.gif") no-repeat 15px 0px;
+}
+li#hausaLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ha.gif") no-repeat 15px 0px;
+}
+li#portugueseafricaLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/por.gif") no-repeat 15px 0px;
+}
+li#brazilLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/br.gif") no-repeat 15px 0px;
+}
+li#caribbeanLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/car.gif") no-repeat 15px 0px;
+}
+li#vietnameseLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/vi.gif") no-repeat 15px 0px;
+}
+li#indonesianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/in.gif") no-repeat 15px 0px;
+}
+li#burmeseLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/bu.gif") no-repeat 15px 0px;
+}
+li#thaiLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/tha.gif") no-repeat 15px 0px;
+}
+li#polishLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/pol.gif") no-repeat 15px 0px;
+}
+li#albanianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/al.gif") no-repeat 15px 0px;
+}
+li#greekLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/gr.gif") no-repeat 15px 0px;
+}
+li#ukrainianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/uk.gif") no-repeat 15px 0px;
+}
+li#serbianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ser.gif") no-repeat 15px 0px;
+}
+li#turkishLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/tur.gif") no-repeat 15px 0px;
+}
+li#persianLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/per.gif") no-repeat 15px 0px;
+}
+li#pashtoLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/pas.gif") no-repeat 15px 0px;
+}
+li#urduLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/urd.gif") no-repeat 15px 0px;
+}
+li#hindiLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/hin.gif") no-repeat 15px 0px;
+}
+li#bengaliLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/ben.gif") no-repeat 15px 0px;
+}
+li#nepaliLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/nep.gif") no-repeat 15px 0px;
+}
+li#tamilLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/tam.gif") no-repeat 15px 0px;
+}
+li#sinhalaLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/sin.gif") no-repeat 15px 0px;
+}
+li#czechLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/cz.gif") no-repeat 15px 0px;
+}
+li#moreLoz {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/nav/v4_lang/more.gif") no-repeat 15px 0px;
+}
+.newsbanner {
+	background: rgb(154, 0, 0); margin: 0px 0px 10px; width: 974px; height: 67px; line-height: 1;
+}
+.newsbanner {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/banner.jpg?v1") no-repeat right top rgb(154, 0, 0);
+}
+.newsbanner h1 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/logo.gif") repeat-x 0px 0px; width: 160px; float: left;
+}
+.newsbanner .logo {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/logo.gif") repeat-x 0px 0px; width: 160px; float: left;
+}
+.newsbanner h1 a {
+	padding: 0px; width: 160px; height: 67px; display: block;
+}
+.newsbanner .logo a {
+	padding: 0px; width: 160px; height: 67px; display: block;
+}
+.newsbanner div.o {
+	background-position: 75px 0px; width: 814px; height: 67px; float: right; display: block;
+}
+div.banSpecialv4 {
+	background-position: 75px 0px; width: 814px; height: 67px; float: right; display: block;
+}
+.newsbanner .o .miitb a {
+	margin: 0px; padding: 22px 0px 7px 13px; width: 350px; color: rgb(255, 255, 255); text-transform: uppercase; font-size: 1.1em; font-weight: bold; display: block;
+}
+.newsbanner .o .wideav a {
+	margin: 0px; padding: 22px 0px 7px 13px; width: 350px; color: rgb(255, 255, 255); text-transform: uppercase; font-size: 1.1em; font-weight: bold; display: block;
+}
+.newsbanner .o .miitb a img {
+	margin: 1px 0px 0px;
+}
+.newsbanner .o .wideav a img {
+	margin: 3px 0px 0px;
+}
+.newsbanner span {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.banmain .miitb {
+	margin: 5px 0px 0px; font-size: 1.2em; font-weight: bold;
+}
+.bannermain {
+	height: 67px; margin-bottom: 10px;
+}
+.bannermain h1 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_logo_bg.jpg") repeat-x 0px 0px; margin: 0px; padding: 0px; width: 410px; height: 67px;
+}
+.bannermain h1 a {
+	padding: 0px; width: 130px; height: 67px; display: block;
+}
+.bannermain span {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.bannerav {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_av_bg.jpg") repeat-x 0px 0px; width: 564px; height: 67px; display: block;
+}
+.bannerav a {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/icons/live.gif") no-repeat 15px 27px; padding: 28px 0px 0px 65px; width: 230px; height: 67px; color: rgb(255, 255, 255); font-size: 1.1em; font-weight: bold; display: block;
+}
+.newsbanner .banSpecialv4 h2 {
+	font: bold 27px/normal arial; padding: 22px 0px 0px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialv4 h2.spl2 {
+	font: bold 27px/normal arial; padding: 12px 0px 0px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialmag {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_magv4.gif") no-repeat right bottom rgb(51, 102, 119); margin: 0px 0px 0px 160px; height: 67px;
+}
+.newsbanner .banSpecialmag h2 {
+	font: bold 27px/normal arial; left: 14px; top: 21px; color: rgb(255, 255, 255); position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialv4 span.splsubtxt {
+	font: italic 12px/normal arial; left: 0px; top: 0px; color: rgb(255, 255, 255); display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+td.banSpecial1 {
+	margin: 0px; padding: 0px; vertical-align: top; display: block;
+}
+td.banSpecial2 {
+	margin: 0px; padding: 0px; vertical-align: top; display: block;
+}
+td.banSpecial3 {
+	margin: 0px; padding: 0px; vertical-align: top; display: block;
+}
+td.banSpecial4 {
+	margin: 0px; padding: 0px; vertical-align: top; display: block;
+}
+.banSpecial1 {
+	background: rgb(51, 102, 119); height: 67px;
+}
+.banSpecial2 {
+	background: rgb(0, 0, 0); height: 67px;
+}
+.banSpecial3 {
+	background: rgb(153, 0, 0); height: 67px;
+}
+.banSpecial4 {
+	background: rgb(153, 153, 136); height: 67px;
+}
+.banSpecialTxt {
+	font: bold 27px/normal arial; margin: 0px; padding: 22px 0px 0px 10px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.banSpecialTxt_2 {
+	font: bold 27px/normal arial; padding: 11px 0px 0px 10px; width: 416px; color: rgb(0, 0, 0); float: left; font-size-adjust: none; font-stretch: normal;
+}
+a.banSpecialLink:link {
+	font: bold 27px/normal arial; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+a.banSpecialLink:visited {
+	font: bold 27px/normal arial; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+a.banSpecialLink:active {
+	font: bold 27px/normal arial; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+a.banSpecialLink:hover {
+	font: bold 27px/normal arial; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialcredit h2 {
+	font: bold 27px/normal arial; left: 10px; top: 27px; height: 67px; color: rgb(255, 255, 255); position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialiraq h2 {
+	font: bold 27px/normal arial; left: 10px; top: 27px; height: 67px; color: rgb(255, 255, 255); position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialmideast h2 {
+	font: bold 27px/normal arial; left: 10px; top: 27px; height: 67px; color: rgb(255, 255, 255); position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialus h2 {
+	font: bold 27px/normal arial; left: 10px; top: 27px; height: 67px; color: rgb(255, 255, 255); position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialcredit {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_credit.jpg") no-repeat right bottom rgb(153, 0, 0);
+}
+.newsbanner .banSpecialiraq {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_iraq.jpg") no-repeat right bottom rgb(153, 0, 0);
+}
+.newsbanner .banSpecialmideast {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_mideast.jpg") no-repeat right bottom rgb(153, 0, 0);
+}
+.newsbanner .banSpecialus {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_us.jpg") no-repeat right bottom rgb(153, 0, 0);
+}
+.worldnewsamerica {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/worldnewsamerica.jpg") no-repeat; margin: 0px 0px 10px; height: 69px;
+}
+.worldnewsamerica h1 {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.worldnewsamerica div a span {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.worldnewsamerica div {
+	margin: 0px 0px 0px 880px;
+}
+.worldnewsamerica div a {
+	width: 80px; height: 60px; display: block;
+}
+.schoolreport {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/ban_sr.gif") no-repeat; margin: 0px 0px 10px; height: 67px;
+}
+.schoolreport h1 {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.schoolreport div a span {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.schoolreport div {
+	left: -5000px; top: -5000px; position: absolute;
+}

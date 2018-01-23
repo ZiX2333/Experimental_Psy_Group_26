@@ -1,0 +1,489 @@
+table.storycontent {
+	width: 786px;
+}
+.mediaAssetWrapper {
+	width: 545px; float: left;
+}
+.mediaAssetD .mediaAssetWrapper {
+	margin: 0px 0px 10px; width: 790px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.videoInStoryD .emp {
+	margin: 0px 75px;
+}
+.mediaAssetWrapper img.holding {
+	width: 512px; height: 288px;
+}
+.mediaAssetStoryA {
+	margin: 0px auto; width: 512px;
+}
+.videoInStoryA {
+	margin: 0px auto; width: 512px;
+}
+.mediaAssetStoryA div {
+	height: 290px;
+}
+.videoInStoryA .emp {
+	height: 290px;
+}
+.videoInStoryA div {
+	height: 290px;
+}
+.videoInStoryD .emp {
+	height: 360px;
+}
+div.bbccom_visibility_hidden {
+	visibility: hidden;
+}
+.videoInStoryA div.bbccom_visibility_hidden {
+	height: 60px;
+}
+.videoInStoryA div.bbccom_companion_text {
+	height: 60px;
+}
+.videoInStoryA div .companion_v4 .comp_banner_holder {
+	height: 60px;
+}
+.videoInStoryA div.companion_v4 {
+	height: 60px;
+}
+.videoInStoryA div.companion_v4 iframe {
+	height: 60px;
+}
+.mediaAssetWrapper div.videoInStoryA div.companion_v4 div {
+	height: 60px;
+}
+.videoInStoryB div.bbccom_visibility_hidden {
+	height: 60px;
+}
+.videoInStoryB div.bbccom_companion_text {
+	height: 60px;
+}
+.videoInStoryB div .companion_v4 .comp_banner_holder {
+	height: 60px;
+}
+.videoInStoryB div.companion_v4 {
+	height: 60px;
+}
+.videoInStoryB div.companion_v4 iframe {
+	height: 60px;
+}
+.mediaAssetWrapper div.videoInStoryB div.companion_v4 div {
+	height: 60px;
+}
+.videoInIndexB div.bbccom_visibility_hidden {
+	height: 60px;
+}
+.videoInIndexB div.bbccom_companion_text {
+	height: 60px;
+}
+.videoInIndexB div .companion_v4 .comp_banner_holder {
+	height: 60px;
+}
+.videoInIndexB div.companion_v4 {
+	height: 60px;
+}
+.videoInIndexB div.companion_v4 iframe {
+	height: 60px;
+}
+.mediaAssetWrapper div.videoInIndexB div.companion_v4 div {
+	height: 60px;
+}
+.videoInIndexB div.companion_v4 div {
+	height: 60px;
+}
+.videoInStoryA .bbccom_visibility_hidden {
+	padding: 10px 0px 0px;
+}
+.videoInStoryA .companion_v4 {
+	padding: 10px 0px 0px;
+}
+.videoInStoryB .bbccom_visibility_hidden {
+	padding: 10px 0px 0px;
+}
+.videoInStoryB .companion_v4 {
+	padding: 10px 0px 0px;
+}
+.videoInIndexA .bbccom_visibility_hidden {
+	padding: 10px 0px 0px;
+}
+.videoInIndexA .companion_v4 {
+	padding: 10px 0px 0px;
+}
+.videoInIndexB .bbccom_visibility_hidden {
+	padding: 10px 0px 0px;
+}
+.videoInIndexB .companion_v4 {
+	padding: 10px 0px 0px;
+}
+.mediaAssetIndexB {
+	margin: 0px 8px; width: 448px;
+}
+.mediaAssetStoryB {
+	margin: 0px 8px; width: 448px;
+}
+.videoInIndexB {
+	margin: 0px 8px; width: 448px;
+}
+.videoInStoryB {
+	margin: 0px 8px; width: 448px;
+}
+.mediaAssetStoryB img {
+	width: 448px; height: 252px;
+}
+.mediaAssetStoryB img.holding {
+	width: 448px; height: 252px;
+}
+.videoInStoryB img.holding {
+	width: 448px; height: 252px;
+}
+.videoInIndexB img.holding {
+	width: 448px; height: 252px;
+}
+.mediaAssetIndexB div {
+	height: 260px;
+}
+.videoInIndexB div {
+	height: 260px;
+}
+.mediaAssetStoryB div {
+	height: 252px;
+}
+.videoInStoryB .emp {
+	height: 252px;
+}
+.videoInStoryB div {
+	height: 252px;
+}
+.mediaAssetStoryC {
+	margin: 15px 0px 0px 10px; width: 256px; float: right;
+}
+.videoInStoryC {
+	margin: 15px 0px 0px 10px; width: 256px; float: right;
+}
+.mediaAssetStoryC img {
+	width: 256px; height: 144px;
+}
+.mediaAssetStoryC img.holding {
+	width: 256px; height: 144px;
+}
+.videoInStoryC img.holding {
+	width: 256px; height: 144px;
+}
+.mediaAssetStoryC div {
+	height: 179px;
+}
+.videoInStoryC div.emp {
+	height: 179px;
+}
+.videoInStoryC div.emp {
+	margin: 0px; padding: 0px; width: 256px;
+}
+.mediaAssetIndexB .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.mediaAssetStoryB .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.mediaAssetStoryC .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.videoInIndexB .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.videoInStoryB .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.videoInStoryC .caption {
+	margin: 10px 0px; color: rgb(70, 70, 70); clear: both; font-size: 1.1em; display: block;
+}
+.videoInStoryB p.caption {
+	font-size: 0.85em;
+}
+.videoInStoryC p.caption {
+	font-size: 0.85em;
+}
+.videoInStoryC p.caption {
+	margin: 5px 0px 10px; line-height: 1.3em;
+}
+.mediaAssetWrapper .videoInStoryA {
+	margin: 20px 8px 10px 16px; position: relative;
+}
+.mediaAssetWrapper h3 {
+	margin: 20px 8px 10px 16px; position: relative;
+}
+.mediaAssetWrapper .storybody {
+	margin: 0px; padding: 0px 0px 10px; left: 16px; width: 512px; clear: left; font-size: 1.3em; position: relative;
+}
+.mediaAssetD .mediaAssetWrapper .storybody {
+	padding: 10px 74px; left: 0px; width: 642px;
+}
+.mediaAssetWrapper .storybody p {
+	margin: 8px 0px 0px; font-size: 0.9em;
+}
+.mediaAssetWrapper h1 {
+	margin: 15px 0px 10px 16px; font-size: 1.6em; font-weight: bolder;
+}
+#mostPopAVNow h3 {
+	margin: 0px 0px 8px; padding: 0px; color: rgb(68, 68, 68); text-transform: uppercase; clear: left; font-size: 1.3em; font-weight: normal;
+}
+.mediaAssetWrapper h3 {
+	margin: 0px 0px 8px; padding: 0px; color: rgb(68, 68, 68); text-transform: uppercase; clear: left; font-size: 1.3em; font-weight: normal;
+}
+.mediaAssetD #mostPopAVNow {
+	margin: 0px 10px 0px 0px; padding: 0px 0px 12px; width: 226px; border-bottom-color: rgb(223, 223, 223); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+.mediaAssetD .editorsChoice {
+	width: 226px; font-size: 1.2em; font-weight: bold; float: left;
+}
+.mediaAssetD .editorsChoice h3 {
+	margin: 0px 0px 4px;
+}
+.mediaAssetD .editorsChoice .o {
+	padding: 0px 0px 0px 14px; width: 300px; float: left;
+}
+.editorsChoice h3 {
+	margin: 10pt 0px 4px; padding: 0px 0px 0px 14px; width: 226px; height: 20px; color: rgb(68, 68, 68); text-transform: uppercase; font-size: 1.1em; font-weight: normal; float: left;
+}
+.mediaAssetWrapper h3 {
+	margin: 0px 0px 2px 16px; padding: 0px;
+}
+.mediaAssetWrapper ul {
+	margin: 0px; padding: 0px 0px 10px 16px; list-style-type: none;
+}
+.mediaAssetWrapper ul.seealso {
+	
+}
+.mediaAssetWrapper ul.seealso li {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 7px 6px; padding: 3px 0px; font-size: 1.2em; font-weight: normal;
+}
+.mediaAssetWrapper ul.seealso li a {
+	padding: 0px 0px 0px 24px;
+}
+.mediaAssetWrapper ul.seealso li.video {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/video_single.gif") no-repeat 0px 4px;
+}
+.video {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/video_single.gif") no-repeat 0px 4px;
+}
+.mediaAssetWrapper ul.seealso li.audio {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/audio_single.gif") no-repeat 0px 3px;
+}
+.audio {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/icons/audio_single.gif") no-repeat 0px 3px;
+}
+.mediaAssetWrapper ul li a {
+	padding: 0px 0px 0px 20px;
+}
+.mediaAssetWrapper ul li span.length {
+	margin: 0px 0px 0px 5px; color: rgb(153, 153, 153); font-size: 10px; font-weight: normal;
+}
+.mediaAssetWrapper .storyTools {
+	margin: 13px 0pt 0pt; padding: 31px 0pt; clear: left; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: dotted;
+}
+.mediaAssetD {
+	padding: 0px 0px 110px; float: left; position: relative;
+}
+.mediaAssetD .mediaAssetWrapper .storyTools {
+	padding: 0px; width: 100%; bottom: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; position: absolute;
+}
+.mediaAssetD #mostPopAVNow a img {
+	margin: 0px;
+}
+.mediaAssetD #mostPopAVNow div {
+	margin: 0px 15px 10px 0px; width: 250px; float: left;
+}
+.mediaAssetD #mostPopAVNow span.headline {
+	padding: 0px 0px 0px 88px;
+}
+.mediaAssetD #mostPopAVNow {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.mediaAssetD .editorsChoice {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.mediaAssetD .editorsChoice {
+	padding: 0px 0px 0px 14px;
+}
+.mediaAssetWrapper .storyTools h4 {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.mediaAssetWrapper .storyTools .sharesb h3 {
+	margin: 0px 5px 0px 0px; padding: 0px 3px 10px 0px; left: 0px; text-transform: none; font-size: 1.1em; font-weight: normal; position: relative;
+}
+.mediaAssetWrapper .storyTools .sharesb p.epl {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/email.gif") no-repeat 0px 1px; left: 0px; top: -30px; position: absolute;
+}
+.mediaAssetWrapper .storyTools .sharesb p.epl a {
+	padding: 0px 0px 0px 20px; font-size: 12px; position: static;
+}
+#mostPopAVNow {
+	margin: 50px 0px 0px 10px; padding: 0px 0px 12px; width: 226px; border-bottom-color: rgb(223, 223, 223); border-bottom-width: 1px; border-bottom-style: solid; float: right;
+}
+#mostPopAVNow a img {
+	background-position: 0px 0px; margin: 0px 15px 10px 0px; padding: 0px 0px 0px 9px; border: 0px solid rgb(255, 255, 255); border-image: none; background-image: url("http://newsimg.bbc.co.uk/shared/img/emp/bg_most_pop_numbers.gif"); background-repeat: no-repeat;
+}
+#mostPopAVNow div.mp1 a img {
+	background-position: 0px 0px;
+}
+#mostPopAVNow div.mp2 a img {
+	background-position: 0px -59px;
+}
+#mostPopAVNow div.mp3 a img {
+	background-position: 0px -118px;
+}
+#mostPopAVNow div.mp4 a img {
+	background-position: 0px -177px;
+}
+#mostPopAVNow div.mp5 a img {
+	background-position: 0px -236px;
+}
+#mostPopAVNow img {
+	margin: 0px 5px 10px 0px; border: 0px currentColor; border-image: none; float: left;
+}
+.editorsChoice img {
+	margin: 0px 5px 10px 0px; border: 0px currentColor; border-image: none; float: left;
+}
+#mostPopAVNow div {
+	clear: both; font-size: 1.2em;
+}
+#mostPopAVNow span {
+	display: block;
+}
+#mostPopAVNow span.headline {
+	padding: 0px 0px 18px 80px; font-weight: bold;
+}
+.editorsChoice {
+	font-size: 1.2em; font-weight: bold;
+}
+.editorsChoice .o {
+	width: 226px; float: right;
+}
+.audioInStoryA div.warning {
+	margin: 84px 0px 0px 2px; padding: 8px 0px 2px; width: 509px;
+}
+.audioInStoryA div.warning {
+	margin: 0px; padding: 0px; height: 30px;
+}
+.audioInStoryA div.warning {
+	background-position: 6px 3px;
+}
+.audioInStoryA div.warning p {
+	padding: 8px 0px 2px 35px;
+}
+.audioInStoryC div.warning {
+	background-position: 3px 10px;
+}
+.audioInStoryC div.warning {
+	padding: 0px; height: 45px;
+}
+.audioInStoryC div.warning p {
+	padding: 3px 0px 2px 30px; line-height: 1.2em;
+}
+div.jserror {
+	background: url("http://newsimg.bbc.co.uk/shared/img/emp/warning.gif") no-repeat 2px 3px rgb(243, 245, 245); padding: 4px 0px 3px; height: 25px;
+}
+div.warning {
+	background: url("http://newsimg.bbc.co.uk/shared/img/emp/warning.gif") no-repeat 2px 3px rgb(243, 245, 245); padding: 4px 0px 3px; height: 25px;
+}
+div.jserror p {
+	padding: 2px 0px 2px 30px; color: rgb(101, 101, 102); font-size: 11px;
+}
+div.warning p {
+	padding: 2px 0px 2px 30px; color: rgb(101, 101, 102); font-size: 11px;
+}
+div.jserror p {
+	margin: 0px;
+}
+div.warning p {
+	margin: 0px;
+}
+.video div.jserror {
+	width: 398px;
+}
+.video div.warning {
+	width: 398px;
+}
+.mediaAsset div.jserror {
+	padding: 3px;
+}
+.mediaAsset div.warning {
+	padding: 3px;
+}
+.audioInStoryA {
+	margin: 20px 0px 10px 17px; width: 512px; height: 116px;
+}
+.audioInStoryA div {
+	margin: 0px; padding: 0px; width: 512px;
+}
+.audioInStoryC {
+	width: 226px; height: 116px; float: right;
+}
+.audioInStoryC div {
+	margin: 0px; padding: 0px; width: 226px;
+}
+.audioInStoryC div.audioImage {
+	background: url("http://newsimg.bbc.co.uk/shared/img/emp/bg_audio_disabled.gif") no-repeat 50% 50%; height: 69px;
+}
+.audioInStoryA div.audioImage {
+	background: url("http://newsimg.bbc.co.uk/shared/img/emp/bg_audio_disabled.gif") no-repeat 50% 50%; height: 69px;
+}
+.audioInStoryA div.audioImage {
+	width: 509px;
+}
+.embedvideo {
+	margin: 0px 0px 5px; position: relative;
+}
+.embedaudio {
+	margin: 0px 0px 5px; position: relative;
+}
+.embedvideo .latestinfo h1 {
+	margin: 0px; border: 0px currentColor; border-image: none;
+}
+.embedvideo h1 a {
+	font-size: 1.8em;
+}
+.embedaudio h1 a {
+	font-size: 1.8em;
+}
+.embedvideo .latestinfo p {
+	margin: 270px 0px 0px; line-height: 1.4em; font-size: 1.2em;
+}
+.embedaudio .latestinfo p {
+	margin: 130px 0px 0px; line-height: 1.4em; font-size: 1.2em;
+}
+.embedvideo .videoInIndexB {
+	margin: 0px; top: 35px; position: absolute;
+}
+.embedaudio .audioInIndexB {
+	margin: 0px; top: 35px; position: absolute;
+}
+.embedvideo .videoInIndexB .caption {
+	display: none;
+}
+.embedaudio .videoInIndexB .caption {
+	display: none;
+}
+.embedvideo .clear {
+	height: 0px;
+}
+.embeddedavstory .mvb a.shl {
+	font-size: 2.6em; font-weight: normal;
+}
+.embeddedavstory div.o {
+	font: 1.3em/1.3em verdana; margin: 0px 0px 10px; font-size-adjust: none; font-stretch: normal;
+}
+.embeddedavstory .wideav {
+	font-size: 1.3em;
+}
+.embeddedavstory .arr {
+	font-size: 1.3em;
+}
+.videoInStoryA div.bbccom_companion_text {
+	padding: 11px 5px 0px 0px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; letter-spacing: 1px; font-family: arial; font-size: 9px; float: left;
+}
+.videoInStoryB div.bbccom_companion_text {
+	padding: 11px 5px 0px 0px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; letter-spacing: 1px; font-family: arial; font-size: 9px; float: left;
+}
+.videoInIndexB div.bbccom_companion_text {
+	padding: 11px 5px 0px 0px; text-align: left; color: rgb(102, 102, 102); text-transform: uppercase; letter-spacing: 1px; font-family: arial; font-size: 9px; float: left;
+}

@@ -1,0 +1,201 @@
+.marketData h3 {
+	margin: 0px 0px 5px; padding: 0px; color: rgb(51, 51, 51);
+}
+.marketData h4 {
+	margin: 0px 0px 5px; padding: 0px; color: rgb(51, 51, 51);
+}
+.puffbox .marketData h3 {
+	margin: 0px; padding: 0px 0px 5px; font-size: 1em; border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+.marketData h3 a {
+	color: rgb(153, 0, 0); font-size: 1.2em; font-weight: normal;
+}
+.marketData h4 a {
+	color: rgb(153, 0, 0); font-size: 1.2em; font-weight: normal;
+}
+.marketData {
+	margin: 5px 0px 0px; padding: 0px 0px 1px;
+}
+.marketData table {
+	margin: 0px; padding: 0px; width: 100%; font-size: 1.1em;
+}
+.puffbox .marketData table {
+	padding: 0px; font-size: 1em;
+}
+.marketData table td {
+	padding: 2px; vertical-align: top;
+}
+.puffbox .marketData table td {
+	padding: 2px 3px 3px 2px;
+}
+.marketData table td.up {
+	padding: 1px 8px 0px 0px;
+}
+.marketData table td.down {
+	padding: 1px 8px 0px 0px;
+}
+.marketData table td a {
+	padding: 2px 0px 0px 8px;
+}
+.puffbox .marketData table td.ticker a {
+	padding: 2px 0px 0px 5px;
+}
+.puffbox .marketData table td a {
+	font-size: 1em;
+}
+.marketData table .col1 td {
+	background: rgb(238, 238, 238);
+}
+.marketData .up {
+	color: rgb(0, 102, 0);
+}
+.marketData .down {
+	color: rgb(204, 0, 0);
+}
+.marketData p.ticker {
+	margin: 5px 0px 0px;
+}
+.marketData .nochange {
+	color: rgb(0, 0, 0);
+}
+.marketData .nochange {
+	padding: 0px 2px 0px 0px; font-size: 1.1em;
+}
+.marketData .down {
+	padding: 0px 2px 0px 0px; font-size: 1.1em;
+}
+.marketData .up {
+	padding: 0px 2px 0px 0px; font-size: 1.1em;
+}
+.mdsrc {
+	color: rgb(102, 102, 102); font-size: 1.1em;
+}
+.sectornavsm {
+	margin: 3px 0px 0px; color: rgb(0, 0, 0); font-size: 1px;
+}
+.stats {
+	color: rgb(0, 0, 0); font-size: 1.1em;
+}
+.statshi {
+	color: rgb(0, 0, 0); font-size: 1.1em;
+}
+.statslo {
+	color: rgb(0, 0, 0); font-size: 1.1em;
+}
+.instructions {
+	color: rgb(0, 0, 0); font-size: 1.1em;
+}
+.statshi {
+	color: rgb(51, 153, 51);
+}
+.statslo {
+	color: rgb(204, 51, 0);
+}
+.instructions {
+	color: rgb(102, 102, 102);
+}
+.sectionheader b {
+	color: rgb(153, 153, 102); font-size: 13px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.disclaimer {
+	color: rgb(0, 0, 0); font-size: 11px; font-style: italic;
+}
+.marketData td {
+	text-align: left; vertical-align: top;
+}
+.marketData .col1 td {
+	background: rgb(238, 238, 238);
+}
+.marketData td.col2 {
+	text-align: right;
+}
+.marketData td.col3 {
+	text-align: right;
+}
+.marketData td.col4 {
+	text-align: right;
+}
+.marketData td.algl {
+	padding: 2px 0pt 1px 2px; width: 100px; text-align: left;
+}
+.moveup {
+	padding: 0px 9px 0px 0px; font-size: 1.1em;
+}
+.movedo {
+	padding: 0px 9px 0px 0px; font-size: 1.1em;
+}
+.nomove {
+	padding: 0px 9px 0px 0px; font-size: 1.1em;
+}
+.moveup {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up3.gif") no-repeat right top; color: rgb(51, 153, 51);
+}
+.movedo {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down3.gif") no-repeat right top; color: rgb(204, 51, 0);
+}
+.acstxt {
+	left: -5000px; top: 0px; position: absolute;
+}
+.marketData td.ticker {
+	padding: 5px 0px 0px; text-align: left;
+}
+.puffbox .marketData td.ticker {
+	padding: 5px 0px 8px;
+}
+.marketData td.up {
+	padding: 2px 0px 0px; color: rgb(0, 102, 0);
+}
+.marketData td.down {
+	color: rgb(204, 0, 0);
+}
+.marketData .nochange {
+	font-size: 1.1em;
+}
+.marketData .down {
+	font-size: 1.1em;
+}
+.marketData .up {
+	font-size: 1.1em;
+}
+.mph1_hps {
+	background: rgb(255, 255, 255); padding: 2px 0px 0px; color: rgb(68, 68, 68); font-size: 1.3em; font-weight: normal;
+}
+.nlp_hps {
+	padding: 0px 0px 3px; color: rgb(102, 102, 102); font-size: 1.2em;
+}
+.marketData h3 span {
+	color: rgb(153, 153, 153); font-size: 1em; font-weight: normal;
+}
+.marketData span.data {
+	text-align: right; color: rgb(153, 153, 153); font-size: 1em; font-weight: normal;
+}
+.marketData div.data {
+	text-align: right; color: rgb(153, 153, 153); font-size: 1em; font-weight: normal;
+}
+.marketData div.data {
+	margin: 3px 0px;
+}
+.marketData div.arr {
+	margin: 3px 0px;
+}
+.marketData div.ticker a img {
+	margin: 0px 5px 0px 0px;
+}
+.marketData div.ticker {
+	margin: 0px; padding: 5px 0px 10px; border: 0px currentColor; border-image: none;
+}
+.marketdatapromo {
+	margin: 0px 0px 14px; padding: 10px 0px 0px; font-size: 1.3em; border-top-color: rgb(222, 222, 222); border-top-width: 1px; border-top-style: solid;
+}
+.marketdatapromo a.head {
+	margin: 0px; padding: 0px 0px 2px; color: rgb(153, 0, 0); font-size: 1em; font-weight: normal;
+}
+.marketdatapromo span {
+	margin: 0px; padding: 0px; font-size: 12px;
+}
+.marketdatapromo a.mdlink {
+	margin: 0px; padding: 0px; font-size: 12px;
+}
+.marketdatapromo img {
+	margin: 0px 10px 0px 0px; float: left;
+}

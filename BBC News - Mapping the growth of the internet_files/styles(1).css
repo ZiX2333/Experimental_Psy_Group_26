@@ -1,0 +1,582 @@
+a:link {
+	color: rgb(31, 82, 123);
+}
+a:active {
+	color: rgb(79, 133, 174);
+}
+a:hover {
+	color: rgb(13, 48, 89); text-decoration: underline;
+}
+a:visited {
+	color: rgb(79, 133, 174);
+}
+a.lp:link {
+	color: rgb(144, 26, 31);
+}
+a.lp:visited {
+	color: rgb(144, 26, 31);
+}
+a.lp:active {
+	color: rgb(144, 26, 31);
+}
+a.lp:hover {
+	color: rgb(112, 8, 13); text-decoration: underline;
+}
+.arr {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 0px 5px; padding: 0px 0px 5px 10px; line-height: 1.3em;
+}
+.arr a {
+	line-height: 1.3em; font-size: 1.2em;
+}
+.statsStory .arr {
+	line-height: 1.3em; font-size: 1.2em;
+}
+.arrlink {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 0px 0px; padding: 0px 0px 0px 7px;
+}
+.bull {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/bullet_rb.gif") no-repeat; padding: 0px 0px 0px 10px;
+}
+.arrdo {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow_down.gif?v1") no-repeat 0px 10px; padding: 4px 0px 4px 10px;
+}
+.arrup {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow_up.gif?v1") no-repeat 0px 10px; padding: 4px 0px 4px 9px;
+}
+.sabull {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/seealso_bullet.gif");
+}
+h2.nlp4 {
+	margin: 0px 0px 5px; color: rgb(68, 68, 68); font-size: 1.2em; font-weight: normal;
+}
+h3.nlp4 {
+	margin: 0px 0px 5px; color: rgb(68, 68, 68); font-size: 1.2em; font-weight: normal;
+}
+h2.nlp4 a:link {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h2.nlp4 a:visited {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h2.nlp4 a:hover {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h2.nlp4 a:active {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h3.nlp4 a:link {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h3.nlp4 a:visited {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h3.nlp4 a:hover {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+h3.nlp4 a:active {
+	color: rgb(153, 0, 0); font-weight: normal;
+}
+.marketdata {
+	width: 100%; font-size: 1.1em;
+}
+.marketData h3 {
+	font-size: 1.1em;
+}
+.arry {
+	background-repeat: no-repeat;
+}
+.arrup {
+	background-repeat: no-repeat;
+}
+.arrdo {
+	background-repeat: no-repeat;
+}
+.sabull {
+	background-repeat: no-repeat;
+}
+.arrdo a.bodl:link {
+	font-size: 0.9em;
+}
+.arrdo a.bodl:active {
+	font-size: 0.9em;
+}
+.arrdo a.bodl:hover {
+	font-size: 0.9em;
+}
+.arrdo a.bodl:visited {
+	font-size: 0.9em;
+}
+.arrup a.bodl:link {
+	font-size: 0.9em;
+}
+.arrup a.bodl:active {
+	font-size: 0.9em;
+}
+.arrup a.bodl:hover {
+	font-size: 0.9em;
+}
+.arrup a.bodl:visited {
+	font-size: 0.9em;
+}
+.miitb {
+	margin: 2px 0px;
+}
+.quote {
+	margin: 5px 0px 5px 10px; padding: 0px 0px 5px;
+}
+.quotelist {
+	width: 193px;
+}
+.quotelist blockquote {
+	margin: 0px;
+}
+.quotelist ul {
+	margin: 5px 0px 0px; padding: 5px 0px 0px; border-top-color: rgb(102, 102, 102); border-top-width: 1px; border-top-style: dashed;
+}
+.quotelist ul li {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 0px 0px; padding: 0px 0px 5px 7px;
+}
+.qbox416 {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/bqbox_416.gif") no-repeat left bottom; margin: 2px 0px 0px; padding: 0px 0px 15px;
+}
+.qbox416 blockquote {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/tqbox_416.gif") no-repeat 0px 0px; margin: 0px; padding: 20px 2px 2px 5px;
+}
+.qbox416 blockquote a {
+	font-size: 13px;
+}
+.qbox416 .info {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/r_quote.gif") no-repeat 385px 0px; margin: 0px; padding: 15px 0px 10px 5px;
+}
+.qbox416 p strong {
+	line-height: 22px;
+}
+.qbox p b {
+	line-height: 22px;
+}
+.qbox416 a.qboxlink {
+	font-size: 13px;
+}
+.qbox416 .links {
+	margin: 0px; padding: 0px 0px 10px 5px;
+}
+.qbox416 .links a {
+	font-size: 13px;
+}
+.sihf {
+	padding: 2px 0px 2px 5px; color: rgb(255, 255, 255); font-size: 10px; font-weight: bold; background-color: rgb(180, 0, 0);
+}
+ul.otherstories li {
+	font-size: 1.1em;
+}
+ul.otherstories li a {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif") no-repeat 0px 0px; padding: 0px 0px 5px 7px;
+}
+a.lp {
+	color: rgb(153, 0, 0);
+}
+.mvp a.lp {
+	color: rgb(153, 0, 0);
+}
+.splash td {
+	background: 0px;
+}
+.splash .mvb {
+	margin: 0px 0px 14px; padding: 0px; font-size: 1.3em;
+}
+.splash .tssplash {
+	margin: 0px; padding: 0px; font-size: 3.6em; font-weight: bold;
+}
+.splash a.tshsplash {
+	color: rgb(0, 0, 153); line-height: 26px; font-size: 1.8em; font-weight: bold;
+}
+.splash a.tshsplash:link {
+	color: rgb(0, 0, 153); line-height: 26px; font-size: 1.8em; font-weight: bold;
+}
+.splash a.tshsplash:visited {
+	color: rgb(102, 102, 204);
+}
+.splash a.tshsplash:hover {
+	color: rgb(0, 0, 153);
+}
+.splash a.tshsplash:active {
+	color: rgb(0, 0, 153);
+}
+.nlp {
+	margin: 0px 0px 3px; color: rgb(88, 88, 88); font-size: 1.2em; font-weight: normal; -webkit-text-size-adjust: none;
+}
+.av1h {
+	margin: 0px 0px 3px; color: rgb(102, 102, 102); font-size: 1.2em; font-weight: normal;
+}
+.seeAlsoH {
+	margin: 0px 0px 3px; color: rgb(102, 102, 102); font-size: 1.2em; font-weight: normal;
+}
+.serviceStripPromo h4 {
+	margin: 0px 0px 3px; color: rgb(102, 102, 102); font-size: 1.2em; font-weight: normal;
+}
+.mph1 {
+	margin: 0px 0px 3px; color: rgb(102, 102, 102); font-size: 1.2em; font-weight: normal;
+}
+.serviceStripPromo {
+	padding: 5px 0px 5px 55px; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.mostpopular {
+	font-size: 1.3em; -webkit-text-size-adjust: none;
+}
+.mostpopular .now {
+	margin: 0px 7px 0px 0px; padding: 0px 7px 0px 0px; text-transform: uppercase; border-right-color: rgb(102, 102, 102); border-right-width: 1px; border-right-style: solid; float: left; display: block;
+}
+.mostpopular .now a {
+	color: rgb(144, 26, 31);
+}
+.mostpopular .section {
+	width: 560px; height: 15px; text-align: left; float: left; display: block;
+}
+.servicev4 {
+	background: rgb(238, 238, 238); margin: 0px 0px 10px; padding: 0px 0px 5px 160px; border: 1px solid rgb(238, 238, 238); border-image: none; height: 60px;
+}
+.servicev4 h4 {
+	background: rgb(238, 238, 238); margin: 0px; padding: 2px 0px 0px; width: 160px; text-align: right; clear: both; font-size: 1.1em; font-weight: normal;
+}
+.servicev4 h4 a.lp {
+	color: rgb(153, 51, 51);
+}
+.servicev4 ul {
+	background: rgb(238, 238, 238); list-style: none; margin: 5px 0px 0px; padding: 0px;
+}
+.servicev4 ul li {
+	background: rgb(238, 238, 238); margin: 0px 0px 0px 20px; padding: 0px; text-align: center; float: left;
+}
+.servicev4 ul li.emailnews a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 ul li.mobiles a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 ul li.alerts a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 ul li.newsfeeds a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 ul li.itv a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 ul li.podcast a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 div.clear {
+	overflow: hidden;
+}
+ul li.podcast a {
+	padding: 12px 0px; font-size: 11px;
+}
+.servicev4 {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/service_bg.jpg") repeat-x 0px 0px; margin: 0px; padding: 0px; border: currentColor; border-image: none; height: 63px;
+}
+.servicev4 h4 {
+	background: none; margin: 0px; padding: 23px 0px 0px; width: 160px; text-align: right; clear: both; font-size: 1.1em; font-weight: normal; float: left;
+}
+.servicev4 ul {
+	background: none; margin: 10px 0px 0px; padding: 0px; width: 800px; float: right;
+}
+.servicev4 ul li {
+	margin: 0px 0px 0px 10px;
+}
+.servicev4 ul li.emailnews {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/email2.gif") no-repeat 0px 3px; padding: 12px 0px 12px 35px; font-size: 11px;
+}
+.servicev4 ul li.mobiles {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/mobile2.gif") no-repeat 0px 3px; padding: 12px 0px 22px 35px; font-size: 11px;
+}
+.servicev4 ul li.alerts {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/desktop2.gif") no-repeat 0px 3px; padding: 12px 0px 12px 40px; font-size: 11px;
+}
+.servicev4 ul li.newsfeeds {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/feeds2.gif") no-repeat 0px 3px; padding: 12px 0px 12px 29px; font-size: 11px;
+}
+.servicev4 ul li.itv {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/interactive2.gif") no-repeat 0px 3px; padding: 12px 0px 12px 33px; font-size: 11px;
+}
+.servicev4 ul li.podcast {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/v4/icons/podcasts2.gif") no-repeat 0px 3px; padding: 12px 0px 12px 37px; font-size: 11px;
+}
+.servicev4 h4 a.lp {
+	
+}
+.servicev4 ul li.emailnews a {
+	
+}
+.servicev4 ul li.mobiles a {
+	
+}
+.servicev4 ul li.alerts a {
+	
+}
+.servicev4 ul li.newsfeeds a {
+	
+}
+.servicev4 ul li.itv a {
+	
+}
+.servicev4 ul li.podcast a {
+	
+}
+.servicev4 div.clear {
+	overflow: hidden;
+}
+.newsbanner .banSpecialv4 h2 {
+	font: bold 27px/normal arial; padding: 22px 0px 0px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialv4 h2.spl2 {
+	font: bold 27px/normal arial; padding: 12px 0px 0px; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.newsbanner .banSpecialv4 span.splsubtxt {
+	font: italic 12px/normal arial; left: 0px; top: 0px; color: rgb(255, 255, 255); display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.wsprogramme {
+	font-size: 1.2em;
+}
+.wsprogramme img {
+	float: left;
+}
+.wsprogramme span {
+	float: left;
+}
+.bluestrapbline {
+	margin: 0px 0px 14px; border-bottom-color: rgb(102, 153, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.bluestrapbline .o {
+	font-size: 1.1em;
+}
+.bluestrapbline h3 {
+	background: rgb(102, 153, 204); margin: 0px; padding: 2px 0px 2px 5px; color: rgb(255, 255, 255); font-size: 1.2em;
+}
+.bluestrapbline h3 img {
+	padding: 0px 5px 0px 0px;
+}
+#newstracker .sah {
+	padding: 0px 0px 7px; font-size: 1.2em;
+}
+#newstracker .arr {
+	padding: 0px 0px 10px 10px;
+}
+#newstracker .arr span {
+	font-size: 1.2em;
+}
+.qboxa {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_203.gif");
+}
+.qboxa .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_203.gif");
+}
+.storybody .qbox {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif");
+}
+.storybody .qbox .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif");
+}
+.storybody .qboxb {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif");
+}
+.qboxb {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif");
+}
+.qboxb .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif");
+}
+.storybody .qbox {
+	background-position: -226px 1px;
+}
+.storybody .qboxb {
+	background-position: -226px 1px;
+}
+.qboxb {
+	background-position: -226px 1px;
+}
+.storybody .qbox .info {
+	background-position: left top;
+}
+.storybody .qboxb .info {
+	background-position: left top;
+}
+.qboxb .info {
+	background-position: left top;
+}
+.qbox {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_306.gif");
+}
+.qbox .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_306.gif");
+}
+.qbox .links {
+	padding: 5px 0px; text-align: right;
+}
+.qbox {
+	background-position: -306px 1px;
+}
+.qbox .info {
+	background-position: left top;
+}
+.nwfiller1 .qbox {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif"); background-repeat: no-repeat;
+}
+.nwfiller1 .qbox .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_226.gif"); background-repeat: no-repeat;
+}
+.nwfiller1 .qbox {
+	background-position: -226px 1px;
+}
+.nwfiller1 .qbox .info {
+	background-position: left top; font-size: 1.2em;
+}
+.qboxc {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_306.gif");
+}
+.qboxc .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_306.gif");
+}
+.qboxc {
+	background-position: -306px 1px;
+}
+.qboxc .info {
+	background-position: left top;
+}
+.qboxd {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_466.gif");
+}
+.qboxd .info {
+	background-image: url("http://newsimg.bbc.co.uk/nol/shared/img/v4/qbox_466.gif");
+}
+.qboxd {
+	background-position: -466px 1px;
+}
+.qboxd .info {
+	background-position: left top;
+}
+.qboxa {
+	background-position: -203px 1px;
+}
+.qboxa .info {
+	background-position: left top;
+}
+.qbox {
+	background-repeat: no-repeat;
+}
+.qbox .info {
+	background-repeat: no-repeat;
+}
+.tennisbg .nlp {
+	background: rgb(0, 73, 38); margin: 10px 0px; padding: 8px; color: rgb(255, 255, 255); font-family: arial; font-size: 1.5em;
+}
+.specialdates {
+	margin: 0px 0px 10px; padding: 8px 0px; width: 786px; border-top-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.specialdates h3 {
+	margin: 0px; padding: 0px; width: 80px; font-size: 1.3em; float: left;
+}
+.specialdates ul {
+	float: left;
+}
+.specialdates ul li {
+	width: 70px; text-align: right; font-size: 1.4em; float: left;
+}
+.olympicsbg .nlp {
+	background: url("http://newsimg.bbc.co.uk/sol/shared/img/olympics/bg_olympics_small_logo.gif") no-repeat left; padding: 3px 0px 5px 40px; color: rgb(88, 88, 88); font-size: 1.2em;
+}
+.editorsChoice .o .picheadline {
+	font-size: 0.9em;
+}
+.nhsrating h3.nlp {
+	margin: 0px 0px 5px;
+}
+.nhsrating p {
+	padding: 0px 0px 5px; font-size: 1.1em;
+}
+.nhsrating .disclaimer {
+	margin: 0px 0px 10px; padding: 3px 0px 6px; color: rgb(102, 102, 102); font-size: 1.1em; border-bottom-color: rgb(222, 222, 222); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.thedownturn {
+	background: url("http://newsimg.bbc.co.uk/nol/shared/img/the_downturn_small.gif") no-repeat 0px 0px; padding: 0px 0px 3px;
+}
+.thedownturn a:link {
+	padding: 0px 0px 3px 115px; color: rgb(144, 26, 31); text-transform: uppercase; font-size: 1.3em; display: block;
+}
+.thedownturn a:visited {
+	padding: 0px 0px 3px 115px; color: rgb(144, 26, 31); text-transform: uppercase; font-size: 1.3em; display: block;
+}
+.thedownturn a:hover {
+	padding: 0px 0px 3px 115px; color: rgb(144, 26, 31); text-transform: uppercase; font-size: 1.3em; display: block;
+}
+.thedownturn a:active {
+	padding: 0px 0px 3px 115px; color: rgb(144, 26, 31); text-transform: uppercase; font-size: 1.3em; display: block;
+}
+.thedownturn a:hover {
+	color: rgb(112, 8, 13);
+}
+.thedownturn span {
+	left: -5000px; top: -5000px; position: absolute;
+}
+.purplebg .nlp {
+	background: url("/nol/shared/img/us_election08/us08.jpg") no-repeat 0px 0px; padding: 0px 0px 0px 50px;
+}
+.bodytable td .arrdo {
+	font-size: inherit;
+}
+.marketdata-widget .instup {
+	padding: 2px 1px 4px 0px; text-align: right; color: rgb(0, 153, 0); line-height: 13px; font-family: verdana; font-size: 12px; font-weight: normal;
+}
+.marketdata-widget .instprice {
+	padding: 2px 0px 4px; text-align: right; line-height: 13px; font-family: verdana; font-size: 12px; font-weight: normal;
+}
+.marketdata-widget .instdown {
+	padding: 2px 1px 4px 0px; text-align: right; color: rgb(204, 0, 0); line-height: 13px; font-family: verdana; font-size: 12px; font-weight: normal;
+}
+.marketdata-widget td.insttitle {
+	padding: 2px 0px; text-align: right; line-height: 13px; font-family: verdana; font-size: 11px; font-weight: normal;
+}
+.marketdata-widget .titledate {
+	padding: 2px 5px; font-family: verdana; font-size: 10px; font-weight: normal; background-color: rgb(225, 225, 225);
+}
+.marketdata-widget .chartkey {
+	padding: 0px 10px 0px 8px; font-family: verdana; font-size: 10px; font-weight: normal; background-color: rgb(255, 255, 255);
+}
+.marketdata-widget .chart {
+	height: 190px; background-color: rgb(255, 255, 255);
+}
+.marketdatawidget {
+	background: 0px 0px rgb(243, 243, 243); margin: 0px; padding: 0px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 231px; clear: right; font-family: verdana; float: right; display: inline; position: relative;
+}
+.marketdatawidget .title {
+	background: rgb(92, 136, 165); padding: 2px 0px 3px 5px; color: rgb(255, 255, 255); font-size: 11px; font-weight: bold;
+}
+.marketdatawidget .titledate {
+	padding: 2px 5px; font-family: verdana; font-size: 10px; font-weight: normal; background-color: rgb(225, 225, 225);
+}
+.marketdatawidget .chartkey {
+	padding: 0px 10px 0px 8px; font-family: verdana; font-size: 10px; font-weight: normal; background-color: rgb(255, 255, 255);
+}
+.marketdatawidget .chart {
+	height: 181px; background-color: rgb(255, 255, 255);
+}
+.storycontent .storybody .marketdatawidget table {
+	margin: 0px; text-align: right; font-family: verdana; font-size: 12px;
+}
+.storycontent .storybody .marketdatawidget .insttitle {
+	background: rgb(225, 225, 225); padding: 4px 20px 4px 0px; border: 0px currentColor; border-image: none; font-size: 11px;
+}
+.storycontent .storybody .marketdatawidget .instprice {
+	background: rgb(243, 243, 243); padding: 4px 20px 4px 0px; border: 0px currentColor; border-image: none; width: 81px;
+}
+.storycontent .storybody .marketdatawidget .instup {
+	background: rgb(243, 243, 243); padding: 4px 20px 4px 0px; border: 0px currentColor; border-image: none; width: 75px; color: rgb(0, 153, 0);
+}
+.storycontent .storybody .marketdatawidget .instdown {
+	background: rgb(243, 243, 243); padding: 4px 20px 4px 0px; border: 0px currentColor; border-image: none; width: 75px; color: rgb(204, 0, 0);
+}
+.marketdatawidget .instlink {
+	padding: 2px 0px 2px 5px;
+}
+.storycontent .marketdatawidget .instlink a {
+	background-position: left 3px; font-size: 11px; font-weight: normal; margin-left: 5px;
+}

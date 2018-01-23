@@ -1,0 +1,24 @@
+#updated-message {
+	margin: -10px 0px 10px; position: relative;
+}
+#updated-message {
+	background: rgb(223, 223, 223); padding: 5px 0px; height: 1.9em; font-size: 1.3em;
+}
+.sportbanner div#updated-message {
+	background: rgb(223, 223, 223); padding: 5px 0px; height: 1.9em; font-size: 1.3em;
+}
+.newsbanner #updated-message {
+	margin: -1px 0px 0px;
+}
+#updated-message p {
+	background: url("http://newsimg.bbc.co.uk/shared/img/v4/sprite_toggle.gif") no-repeat 0px 0px rgb(255, 255, 255); margin: 0px 10px; padding: 5px 10px;
+}
+#updated-message p.close_alert {
+	background: none; padding: 2px 0px; top: 5px; right: 2px; display: block; position: absolute;
+}
+#updated-message p.close_alert a {
+	padding: 0px 20px 0px 0px; color: rgb(255, 255, 255);
+}
+p.close_alert span {
+	left: -50000px; top: -50000px; position: absolute;
+}
